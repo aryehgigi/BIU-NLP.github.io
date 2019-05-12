@@ -117,5 +117,12 @@
    pic: biu_trans.png
    gender: female
    role: MSc Student
+   -
+   name: Aryeh Tiktinsky
+   advisors: Yoav Goldberg
+   degree: MSc Student
+   pic: aryeh_tiktinsky.png
+   gender: male
+   role: MSc Student
 
 
